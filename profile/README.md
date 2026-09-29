@@ -26,8 +26,8 @@ Our name reflects this direction: **λ** resembles **人**, the Chinese characte
 We study how everyday human experience can become a scalable source of intelligence for robots.
 
 - **Human experience at scale.** Capturing egocentric perception and whole-body interaction in the open world, beyond robot-operated collection.
-- **Learning across embodiments.** Turning human motion into actionable supervision for robots with different bodies and control interfaces.
 - **Whole-body intelligence.** Learning policies that coordinate locomotion, posture, and dexterous manipulation through vision and language.
+- **Agentic harnesses for humanoids.** Connecting reasoning, memory, and whole-body skills through execution feedback for long-horizon autonomy.
 
 ## Selected Work
 
