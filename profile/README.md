@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LambdaHumanoid/.github/main/assets/lambda-humanoid-dark.png">
-    <img src="https://raw.githubusercontent.com/LambdaHumanoid/.github/main/assets/lambda-humanoid.png" alt="Lambda Humanoid" width="440">
-  </picture>
+  <img src="https://raw.githubusercontent.com/LambdaHumanoid/.github/main/assets/lambda-humanoid-logo.png" alt="Lambda Humanoid" width="440">
 </p>
 
 <h3 align="center">From human experience to embodied intelligence.</h3>
