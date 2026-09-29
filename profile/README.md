@@ -41,4 +41,4 @@ A 500-hour dataset pairing egocentric video with synchronized body and hand moti
 
 ## Join Us
 
-We're actively looking for Research Scientists, Engineers, and Interns to work on foundational generative models and their applications. Interested candidates please send your resume to: [allenchen.cyl@alibaba-inc.com](mailto:allenchen.cyl@alibaba-inc.com)
+We're actively looking for **Research Scientists, Engineers, and Interns** to work on humanoid foundation models, scalable learning from human experience, and whole-body robot control. Interested candidates, please send your resume to [allenchen.cyl@alibaba-inc.com](mailto:allenchen.cyl@alibaba-inc.com).
