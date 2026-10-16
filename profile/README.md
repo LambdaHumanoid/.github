@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LambdaHumanoid/.github/main/assets/lambda-humanoid-logo.png" alt="Lambda Humanoid" width="440">
+  <img src="https://raw.githubusercontent.com/LambdaHumanoid/.github/main/assets/lambda-humanoid-logo.webp" alt="Lambda Humanoid" width="440">
 </p>
 
 <h3 align="center">From human experience to embodied intelligence.</h3>
@@ -31,7 +31,7 @@ We study how everyday human experience can become a scalable source of intellige
 **λ₀ — Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation**  
 A whole-body vision–language–action policy that learns through egocentric interaction pretraining, aligned human mid-training, and robot post-training.
 
-**HumanVerse-500 — Whole-body human experience at scale**  
+**HumanVerse — Whole-body human experience at scale**  
 A 500-hour dataset pairing egocentric video with synchronized body and hand motion, built through robot-free capture in everyday environments.
 
 [Explore the research →](https://lambdahumanoid.github.io/) · [Project repository →](https://github.com/LambdaHumanoid/openlambda)
