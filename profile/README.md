@@ -9,6 +9,8 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/LambdaHumanoid/openlambda">OpenLambda</a>
   &nbsp;·&nbsp;
+  <a href="#community">Community</a>
+  &nbsp;·&nbsp;
   <a href="#join-us">Join Us</a>
 </p>
 
@@ -35,6 +37,21 @@ A whole-body vision–language–action policy that learns through egocentric in
 A 500-hour dataset pairing egocentric video with synchronized body and hand motion, built through robot-free capture in everyday environments.
 
 [Explore the research →](https://lambdahumanoid.github.io/) · [Project repository →](https://github.com/LambdaHumanoid/openlambda)
+
+## Community
+
+<table>
+  <tr>
+    <td width="70%" valign="middle">
+      Join our WeChat community to discuss humanoid intelligence, human data, and λ₀.
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/LambdaHumanoid/.github/main/assets/wechat-community-qr.png" alt="Lambda0 微信交流群二维码" width="220">
+      <br>
+      <sub>微信扫码加入 Lambda0 交流群</sub>
+    </td>
+  </tr>
+</table>
 
 ## Join Us
 
